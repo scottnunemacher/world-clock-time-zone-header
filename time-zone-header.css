@@ -1,0 +1,15 @@
+/**
+ * World Clock Time Zone Header
+ * From: https://github.com/scottnunemacher/world-clock-time-zone-header
+ * MIT License
+ */
+
+.hrow {
+  font-weight: bold;
+  color: #C1E97C;
+}
+
+.hrow td {
+  padding-top: 20px;
+  width: 140px;
+}
